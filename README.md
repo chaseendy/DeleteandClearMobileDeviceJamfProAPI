@@ -6,4 +6,5 @@ This script will give users the ability to wipe and delete Mobile Devices on Jam
     - Upload script to Jamf Pro and create a policy with this script as the payload. 
     - Make the Policy available in Self Service (For Technicians and Administrators)
     - Run the Policy, you'll be prompted to enter Device Serial Number 
-      - From there the device will get the command to be wiped along with deleting the device record from Jamf while retaining the Prestage group.
+     
+- From there the device will get the command to be wiped along with deleting the device record from Jamf while retaining the Prestage group.
