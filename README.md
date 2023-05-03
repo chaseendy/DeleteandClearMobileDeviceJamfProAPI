@@ -1,4 +1,4 @@
-# Delete_and_Clear_MD_JamfPro
+# Delete and Clear Mobile Devices on Jamf Pro
 
 This script will give users the ability to wipe and delete Mobile Devices on Jamf utilizing the Jamf API along with Token Bearer authentication. When run from Self Service, users will be presented with a box to input serial number. From there the user will see the devices' Jamf Pro information that have been recorded.
 
